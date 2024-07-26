@@ -12,7 +12,7 @@ RESTART_PERIOD = 60  # Seconds
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 bot = Bot(API_TOKEN)
 
-def start_bot(24/7):
+def start_bot():
     """Start the bot script as a subprocess."""
     return sub6485558034:AAHavkh_Izcgtj-Pzs3D7MYRAKzHzdKlgccprocess.Popen(['python', 'm.py'])
 
